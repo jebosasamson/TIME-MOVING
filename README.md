@@ -18,7 +18,7 @@ This is a simple time countdown project built using HTML, CSS, and JavaScript. I
 * Watch the countdown timer update in real-time until the specified moment is reached.
 
 ### Demo
-You can see a live demo of the project here [Replace # with the live demo link].
+You can see a live demo of the project here [https://jebosasamson.github.io/TIME-MOVING/].
 
 
 ### Contributing
